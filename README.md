@@ -1,6 +1,5 @@
 <p align="center">
   <a href="https://github.com/Anton-Frontend-web3">
-    <!-- Замените YOUR_USERNAME на ваш ник -->
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&color=3399FF&center=true&vCenter=true&width=450&lines=Привет!+Я+Антон+%F0%9F%91%8B;Frontend+разработчик;Создаю+современные+веб--приложения" alt="Typing SVG" />
   </a>
 </p>
@@ -20,7 +19,7 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/High%20Voltage.png" alt="High Voltage" width="25" height="25" /> Технологический стек
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/High%20Voltage.png" alt="High Voltage" width="25" height="25" /> Технологический стек
 
 <table>
   <tr>
@@ -30,14 +29,13 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="#"><img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,html,css" /></a><br>
-      <a href="#"><img src="https://skillicons.dev/icons?i=tailwind,framermotion" /></a>
+      <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,html,css,tailwind,framermotion" />
     </td>
     <td align="center">
-      <a href="#"><img src="https://skillicons.dev/icons?i=nodejs,postgresql,docker" /></a>
+      <img src="https://skillicons.dev/icons?i=nodejs,postgresql,docker" />
     </td>
     <td align="center">
-      <a href="#"><img src="https://skillicons.dev/icons?i=git,eslint,prettier,figma" /></a>
+      <img src="https://skillicons.dev/icons?i=git,eslint,prettier,figma" />
     </td>
   </tr>
 </table>
@@ -50,6 +48,19 @@
 
 ---
 
+### 🚀 Мои проекты
+
+<p>
+  <a href="https://github.com/Anton-Frontend-web3/Sky-Track" target="_blank" style="display: inline-flex; align-items: center; text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/Anton-Frontend-web3/AssetsImage/refs/heads/main/CompanyLogo.svg" alt="Sky-Track Logo" width="32" height="32" style="margin-right: 10px;"/>
+    <strong style="font-size: 16px;">Sky-Track</strong>
+  </a>
+  <br>
+  <em>Cервис для отслеживания авиарейсов в реальном времени.</em>
+</p>
+
+---
+
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20Places/Globe%20Showing%20Europe-Africa.png" alt="Globe Showing Europe-Africa" width="25" height="25" /> Языки
 
 -   **Русский** — Родной
@@ -57,15 +68,14 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> Моя активность на GitHub
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> Моя активность на GitHub
 
 <p align="center">
-  <!-- Не забудьте заменить YOUR_USERNAME на ваш ник на GitHub -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anton-Frontend-web3&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anton-Frontend-web3&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anton-Frontend-web3&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 </p>
