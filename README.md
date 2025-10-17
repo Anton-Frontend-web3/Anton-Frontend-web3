@@ -19,7 +19,7 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/High%20Voltage.png" alt="High Voltage" width="25" height="25" /> Технологический стек
+### 🛠️Технологический стек
 
 <table>
   <tr>
@@ -62,7 +62,7 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20Places/Globe%20Showing%20Europe-Africa.png" alt="Globe Showing Europe-Africa" width="25" height="25" /> Языки
+### 🗣️ Языки
 
 -   **Русский** — Родной
 -   **Английский** — B1-B2 (Intermediate)
