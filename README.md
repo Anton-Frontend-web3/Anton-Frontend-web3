@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Anton-Frontend-web3">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&color=3399FF&center=true&vCenter=true&width=450&lines=Привет!+Я+Антон+%F0%9F%91%8B;Frontend+разработчик;Создаю+современные+веб--приложения" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&color=3399FF&center=true&vCenter=true&width=450&lines=Привет!+Я+Антон+%F0%9F%91%8B;Frontend+разработчик;" alt="Typing SVG" />
   </a>
 </p>
 
