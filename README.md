@@ -29,13 +29,13 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,html,css,tailwind,framermotion" />
+      <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,html,css,tailwind" />
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=nodejs,postgresql,docker" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=git,eslint,prettier,figma" />
+      <img src="https://skillicons.dev/icons?i=git,figma,bun" />
     </td>
   </tr>
 </table>
@@ -44,7 +44,8 @@
 -   **UI-библиотеки:** `shadcn/ui`
 -   **Асинхронные запросы:** `Tanstack Query (React Query)`
 -   **Геоданные:** `Turf.js`
--   **Методология верстки:** `БЭМ`
+-   **Линтеры:** `ESLint`, `Prettier`
+-   **Методологии:** `БЭМ`, `KISS`, `DRY`, `SOLID`
 
 ---
 
@@ -65,17 +66,3 @@
 
 -   **Русский** — Родной
 -   **Английский** — B1-B2 (Intermediate)
-
----
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> Моя активность на GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anton-Frontend-web3&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anton-Frontend-web3&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-<p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anton-Frontend-web3&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-</p>
